@@ -13,6 +13,8 @@ https://github.com/arcosx/comfyui-workflows/assets/17517365/4111d019-6570-44b8-a
 
 ## input prompt
 [svd-input-prompt.json](./svd-input-image.json)
+![workflow (1)](https://github.com/arcosx/comfyui-workflows/assets/17517365/307925f3-e1c4-401c-b79e-f5e0687c1821)
+
 
 **input**
 ```
